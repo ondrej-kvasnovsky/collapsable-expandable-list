@@ -11,6 +11,9 @@
 		79F232A62992C41800B7ACC1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F232A52992C41800B7ACC1 /* ContentView.swift */; };
 		79F232A82992C41900B7ACC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79F232A72992C41900B7ACC1 /* Assets.xcassets */; };
 		79F232AB2992C41900B7ACC1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79F232AA2992C41900B7ACC1 /* Preview Assets.xcassets */; };
+		79F232B22992C44600B7ACC1 /* CollapsableExpandableDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F232B12992C44600B7ACC1 /* CollapsableExpandableDemoView.swift */; };
+		79F232B42992C91500B7ACC1 /* CollapsableSectionsFormDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F232B32992C91500B7ACC1 /* CollapsableSectionsFormDemoView.swift */; };
+		79F232B62992C9F300B7ACC1 /* CustomCollapsableSectionsDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79F232B52992C9F300B7ACC1 /* CustomCollapsableSectionsDemoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		79F232A52992C41800B7ACC1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		79F232A72992C41900B7ACC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79F232AA2992C41900B7ACC1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		79F232B12992C44600B7ACC1 /* CollapsableExpandableDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollapsableExpandableDemoView.swift; sourceTree = "<group>"; };
+		79F232B32992C91500B7ACC1 /* CollapsableSectionsFormDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollapsableSectionsFormDemoView.swift; sourceTree = "<group>"; };
+		79F232B52992C9F300B7ACC1 /* CustomCollapsableSectionsDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollapsableSectionsDemoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				79F232A32992C41800B7ACC1 /* collapsable_expandable_listApp.swift */,
 				79F232A52992C41800B7ACC1 /* ContentView.swift */,
+				79F232B12992C44600B7ACC1 /* CollapsableExpandableDemoView.swift */,
+				79F232B32992C91500B7ACC1 /* CollapsableSectionsFormDemoView.swift */,
+				79F232B52992C9F300B7ACC1 /* CustomCollapsableSectionsDemoView.swift */,
 				79F232A72992C41900B7ACC1 /* Assets.xcassets */,
 				79F232A92992C41900B7ACC1 /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				79F232A62992C41800B7ACC1 /* ContentView.swift in Sources */,
 				79F232A42992C41800B7ACC1 /* collapsable_expandable_listApp.swift in Sources */,
+				79F232B62992C9F300B7ACC1 /* CustomCollapsableSectionsDemoView.swift in Sources */,
+				79F232B42992C91500B7ACC1 /* CollapsableSectionsFormDemoView.swift in Sources */,
+				79F232B22992C44600B7ACC1 /* CollapsableExpandableDemoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
